@@ -1,0 +1,51 @@
+footer {
+    text-align: center;
+}
+
+.article {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.admin-table{
+    width:100%;
+     margin-bottom: 30px;
+     margin-top: 30px;
+}
+
+.form-item{
+width:  1100px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  }
+
+.form-item-content{
+    
+  
+    width:  1100px;
+      height: 550px;
+ 
+  display: flex;
+  align-items: center;
+    
+    
+    
+}
+
+
+
+       
+.btn{
+ 
+
+  display:block;
+  width:auto;
+  text-align:center;
+  margin:20px auto;
+  border: 4px double black;
+}
+
+
+
+    
